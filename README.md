@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Niraj Bava I am 2nd year student of Diploma in Computer Engineering at Jamia Polytechnic (MH), India. <br>I Know The Art Of Coding And Logic. An Effective Communicator With Excellent Relationship Skills And Strong Analytical, Problem-Solving Approaches. Field Well-Versed In Promoting Object-Oriented Approaches To Real-Time Software Development.<br>
+My name is Niraj Bava I am 3rd year student of Diploma in Computer Engineering at Jamia Polytechnic (MH), India. <br>I Know The Art Of Coding And Logic. An Effective Communicator With Excellent Relationship Skills And Strong Analytical, Problem-Solving Approaches. Field Well-Versed In Promoting Object-Oriented Approaches To Real-Time Software Development.<br>
 
 
 ## 🌐 Socials:
