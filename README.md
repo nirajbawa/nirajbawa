@@ -1,5 +1,9 @@
 # 💫 About Me:
-My name is Niraj Bava I am 3rd year student of Diploma in Computer Engineering at Jamia Polytechnic (MH), India. <br>I Know The Art Of Coding And Logic. An Effective Communicator With Excellent Relationship Skills And Strong Analytical, Problem-Solving Approaches. Field Well-Versed In Promoting Object-Oriented Approaches To Real-Time Software Development.<br>
+Hello! I'm Niraj Bava, a graduate with a diploma in computer engineering, currently pursuing a B.Tech in computer engineering at K.K. Wagh Institute Of Engineering Education And Research, Nashik Maharashtra, India. I am deeply passionate about coding and logic, and I possess a knack for effective communication and strong analytical problem-solving skills. My experience lies in promoting object-oriented approaches to real-time software development.
+
+I have a solid grasp of various programming languages and technologies, including C, C++, JavaScript, Python, Java, SQL, PL/SQL, PHP, Full Stack Web Development (MERN & FARM), and Android (Java). I'm well-versed in source control tools like Git and GitHub, and I'm comfortable with databases such as MySQL, Oracle, and MongoDB. My expertise extends to web technologies like HTML, CSS, JavaScript, React.js, NextJS, Typescript, Express, FastAPI, Flask, and Redis, and I have a foundational understanding of AWS.
+
+In terms of operating systems, I'm experienced with Kali, Ubuntu, and Windows. I'm skilled in using development tools such as Microsoft Visual Studio Code, Notepad++, PyCharm, and IntelliJ IDEA. I have a proven ability to multitask, excel under tight deadlines, and work both independently and collaboratively within a team. My attention to detail, flexibility, and proactive attitude are assets that I bring to any project.<br>
 
 
 ## 🌐 Socials:
